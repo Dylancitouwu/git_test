@@ -1,5 +1,19 @@
 Hola, ando aprendiendo
 
+Para copiar el repositorio de Github en el espacio local de Git, tenemos que copiar el "Link" en la parte de Code de Github
+y poner la de SSH con el siguiente comando
+
+<git clone (ctrl + shift + V)>
+
+Lo cual pegara el repositorio y se cargaran los datos para empezar a usarlo
+
+Ahora, para poder ver el estado de nuestro repositorio y saber que si estamos en este usamos el comando
+
+<git remote -v>
+
+
+
+
 Pensemos que vamos a aniadir algo al Github, tenemos que iniciar creando lo que sea que vamos a hacer, en este caso es un archivo
 de texto
 
