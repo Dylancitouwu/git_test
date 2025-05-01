@@ -43,4 +43,7 @@ Se va a hacer el cambio que hemos querido para (en este caso) el documento de te
 Eso seria todo por esta leccion, ahora wa guardar con otro mensaje, no es necesario commitear con (Add), se puede hacer
 con otras palabras explicando el cambio o los cambios que hemos hecho
 
+Para subir todos los cambios hechos a tu repositorio se debe usar el comando 
+
+<git push>
 
