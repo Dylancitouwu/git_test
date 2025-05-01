@@ -25,3 +25,6 @@ Ahora bien, solo nos queda un paso para terminar de hacer el commit. Con el coma
 <git commit -m "Add "Nombre del archivo".txt">
 
 Se va a hacer el cambio que hemos querido para (en este caso) el documento de texto que hemos configurado
+
+
+
