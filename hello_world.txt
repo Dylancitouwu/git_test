@@ -1,0 +1,27 @@
+Hola, ando aprendiendo
+
+Pensemos que vamos a aniadir algo al Github, tenemos que iniciar creando lo que sea que vamos a hacer, en este caso es un archivo
+de texto
+
+Podemos hacerlo con el comando <touch "Nombre del archivo".txt>
+
+Si queremos revisar el estado de nuestro cambio usar el comando
+
+<git status>
+
+
+Ahora nos saldra en rojo el cambio que hemos hecho dentro de nuestro repositorio de Github
+
+Lo que tenemos que hacer es agregarlo para que entre a la fase de Staging con el comando
+
+<git add "Nombre del archivo".txt> #Aplica para cualquier tipo de archivo no solo texto
+
+
+Ahora si vemos el estado de nuestro repositorio saldra en verde pero eso no quiere decir que se haya actualizado el cambio que 
+hicimos, mas bien es como una lista de espera para aceptar el cambio.
+
+Ahora bien, solo nos queda un paso para terminar de hacer el commit. Con el comando:
+
+<git commit -m "Add "Nombre del archivo".txt">
+
+Se va a hacer el cambio que hemos querido para (en este caso) el documento de texto que hemos configurado
